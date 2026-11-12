@@ -1,0 +1,9 @@
+Draft answers — verify against the final binary and Play Console form before submission.
+
+Data collected: No data collected by the developer; all profile and preference data is stored locally on the device.
+Data shared: No.
+Data encrypted in transit: Not applicable; this version has no network permission or backend.
+Data deletion: Uninstalling the app removes app-private profile/photo/database files. Users can clear app storage in Android Settings.
+App activity: Accessibility events are processed locally and transiently to detect scroll events in selected apps. The app does not inspect message content, passwords, or video contents and does not upload events.
+Photos: A user-selected image is copied to app-private storage and is not transmitted.
+Important: Reconfirm all answers after release build inspection. Play Console may classify accessibility processing differently; answer based on actual behavior and current form definitions.

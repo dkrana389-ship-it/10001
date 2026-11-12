@@ -1,0 +1,15 @@
+Keep Focus helps you become more intentional with short-video scrolling.
+
+Set a personal goal, choose a reminder interval, and enable tracking for Instagram and/or YouTube. When a series of scroll events is detected, Keep Focus displays your own motivational line to help you pause and return to what matters.
+
+FEATURES
+• Personal profile with your goal and optional photo
+• Choose reminder intervals: 10, 20, 30 or 50 scroll events
+• Select Instagram and/or YouTube
+• On-device profile and settings
+• No ads, no account and no cloud sync
+
+ACCESSIBILITY SERVICE
+Keep Focus uses Android Accessibility Service to receive scroll and window events only from the selected apps. It uses these events to estimate short-video scrolling and show a reminder. It does not read messages or passwords. Detection may vary as third-party apps change their interfaces.
+
+Keep Focus is a self-management aid, not a medical or clinical product.

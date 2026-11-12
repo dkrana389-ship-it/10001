@@ -1,0 +1,7 @@
+-keepattributes *Annotation*,Signature,InnerClasses,EnclosingMethod
+-keep class dagger.hilt.** { *; }
+-keep class com.keepfocus.app.service.FocusAccessibilityService { *; }
+-keep class androidx.room.** { *; }
+-keep @androidx.room.Entity class * { *; }
+-keepclassmembers class * { @androidx.room.* <fields>; }
+-dontwarn javax.annotation.**

@@ -1,0 +1,23 @@
+KEEP FOCUS — PRIVACY POLICY
+
+Keep Focus is designed to work locally on your device. This version does not require an account, does not contain advertisements, and does not include an internet permission or a server connection.
+
+Information stored on your device
+Your name, nickname, age, profession, goal, motivational line, optional profile photo, settings and local usage statistics are stored in app-private storage. The selected photo is copied into the app's private files directory.
+
+Accessibility Service
+If you enable the service, Keep Focus receives scroll and window events only from Instagram and YouTube. It uses the app package name and event timing to estimate scrolling activity and decide when to show your reminder. It does not read messages, passwords, typed text, or video contents. Event information is processed locally and is not transmitted.
+
+Sharing
+Keep Focus does not send or share this information with the developer or third parties in this version.
+
+Your choices and deletion
+You can turn off protection in the app and disable the Accessibility Service in Android Settings. You can revoke overlay permission in Android Settings. Uninstalling the app removes its private app data; you can also clear its storage from Android Settings.
+
+Children
+Keep Focus is a general self-management utility. A parent or guardian should supervise use by minors.
+
+Changes and contact
+This policy should be updated if the app adds analytics, crash reporting, advertising, accounts, network access, or any third-party SDK. Add a monitored developer contact address before publishing this policy online.
+
+Last updated: November 12, 2026.
